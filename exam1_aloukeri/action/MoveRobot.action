@@ -1,0 +1,10 @@
+# GOAL: οι συντεταγμένες τερματισμού
+float64 x
+float64 y
+---
+# RESULT: χρόνος μετακίνησης + επιτυχία
+float64 travel_time
+bool success
+---
+# FEEDBACK: τρέχων χρόνος μετακίνησης
+float64 travel_time
