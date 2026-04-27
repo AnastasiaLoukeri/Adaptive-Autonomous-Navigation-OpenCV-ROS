@@ -1,0 +1,1 @@
+vision-based autonomous navigation package for TurtleBot3 (Waffle Pi) running on **ROS Noetic/Melodic**. It utilizes **OpenCV** for real-time image processing and an adaptive control loop to navigate complex paths and stop at precise goal coordinates.
